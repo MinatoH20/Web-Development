@@ -1,0 +1,50 @@
+body{
+    background-color: #E78F81
+}
+p{
+    color: black;
+    padding: 10px;
+    word-spacing: normal;
+    margin-left: auto;
+    font-display: Stylus;
+    text-align: center;
+    clear: right;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.jumbotron {
+    background-image: url("../img/jumbotron_bg.jpg");
+    background-size: cover;
+    img size: 10%;
+  }
+
+  
+  .info-page h1, .info-page h2, .info-page h3, .info-page h4{
+    text-align: center;
+    padding: auto;
+    font-size: 12;
+
+
+  }
+
+  .center{
+    float: left;
+  width: 33.33%;
+  padding: 5px;
+    
+  }
+
+  p{
+    clear: both;
+  }
+
+
+
+  
+  h2{
+    text-align: center;
+  }
